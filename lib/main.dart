@@ -21,7 +21,6 @@ void main() {
     statusBarColor: Colors.transparent,
   ));
 
-
   setupServiceLocator();
   runApp(const Bookly());
 }
